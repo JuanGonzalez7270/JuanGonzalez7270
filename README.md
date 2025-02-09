@@ -98,9 +98,10 @@ Dominar la Ciencia de Datos para ayudar a las empresas a tomar decisiones más i
 <h4> 🛠 Mis Redes Sociales </h4>
 <span>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juan-diego-gonzalez-8124112a5/])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-gonzalez-8124112a5/)
 
 </span>
+
 
   
 ### 📌 &nbsp;Mis Repositorios Destacados
